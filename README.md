@@ -1,5 +1,5 @@
-Welcome to this work in progress of a profile, I'm busy eating pizzas and cold drinks, will update this later. 
-
+<h2> Hi, I'm Madhav! <img align='left' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9nenNxNjJ2bXdsNmV0bDJ0dmJqOTlscWVyazQ0NmY0N3Vqcno3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6Mbgorc9nW6gfoPfWN/giphy.gif" width="45"></h2>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlxd2ltNzEza3owcXRhZW5pYm5pbTQ3eWpjemFvaGtrZTVmamRsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tmc0K5a6Cq7pXAFA3M/giphy.gif" width="350">
 
 ```javascript
 const maddy = {
@@ -9,9 +9,9 @@ const maddy = {
   techCommunities: {
                         uni: "Uttarakhand Technical University",
                         languages: "English, Hindi, the Language of Love",
-                        mentor: "Life"
                       },
- challenge: "Trying to find a field to devote my time to, and also trying to figure out the meaning of life"
+ challenge: "Trying to find a field to devote my time to, while figuring out life"
+ chama!!
 }
 ```
 <!--
