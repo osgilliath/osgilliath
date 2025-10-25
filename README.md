@@ -7,7 +7,7 @@ const maddy = {
   code: [Python, C++, HTML, CSS, Javascript, Java],
   interests: [AI, ML, Cybersecurity, Linux, anything cool],
   tech: [React, n8n, Raspberry Pi (cool ik)],
-  'boutMe: {
+  aboutMe: {
                         uni: "Uttarakhand Technical University",
                         languages: "English, Hindi, Language of Love",
                       },
