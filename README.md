@@ -2,7 +2,7 @@ Welcome to this work in progress of a profile, I'm busy eating pizzas and cold d
 
 
 ```javascript
-const ozzy = {
+const maddy = {
   pronouns: "bat" | "man",
   code: [Python, C++, HTML, CSS, Javascript, Java],
   interests: [AI, ML, Cybersecurity, Linux, anything cool],
