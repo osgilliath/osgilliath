@@ -1,5 +1,6 @@
-## Hi there 👋
+Welcome to this work in progress of a profile, I'm busy eating pizzas and cold drinks, will update this later. 
 
+Bye..
 <!--
 **osgilliath/osgilliath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
