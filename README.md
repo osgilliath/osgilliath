@@ -15,5 +15,6 @@ const maddy = {
  chama!!
 }
 ```
-How to reach me: Don't!!
+How to reach me: Don't!! <br/>
+[![Gmail Badge](https://img.shields.io/badge/-shankhdhar.madhav@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shankhdhar.madhav@gmail.com)](mailto:shankhdhar.madhav@gmail.com)
 
