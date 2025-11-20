@@ -17,4 +17,3 @@ const maddy = {
 ```
 How to reach me: don't!! <br/>
 try: `npx maddy666`
-
