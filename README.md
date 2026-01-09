@@ -11,7 +11,6 @@ const maddy = {
                         uni: "Uttarakhand Technical University",
                         languages: "English, Hindi, Language of Love",
                       },
- challenge: "day to day life"
  chama!!
 }
 ```
