@@ -9,7 +9,7 @@ const maddy = {
   tech: [Docker, n8n, Raspberry Pi (cool ik)],
   aboutMe: {
                         uni: "Uttarakhand Technical University",
-                        languages: "English, Hindi, Language of Love",
+                        languages: "English, Hindi",
                       },
  chama!!
 }
