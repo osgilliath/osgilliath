@@ -4,7 +4,7 @@
 ```javascript
 const maddy = {
   pronouns: "bat" | "man",
-  code: [Python, C++, C#, HTML, CSS, Javascript, Java],
+  code: [Python, C++, C#, HTML, CSS, Javascript],
   interests: [AI, ML, Game Dev, Cybersecurity, Linux, anything cool],
   tech: [Docker, n8n, Raspberry Pi (cool ik)],
   aboutMe: {
