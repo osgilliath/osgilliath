@@ -14,5 +14,8 @@ const maddy = {
  chama!!
 }
 ```
-How to reach me: don't!! <br/>
-try: `npx maddy666`
+I use Arch btw.
+
+How to reach me: [![Gmail Badge](https://img.shields.io/badge/-shankhdhar.madhav@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shankhdhar.madhav@gmail.com)](mailto:shankhdhar.madhav@gmail.com)
+
+`npx maddy666`
